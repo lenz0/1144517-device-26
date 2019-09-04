@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Александр Чиркин](https://up.htmlacademy.ru/htmlcss/26/user/1144517).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Новаш](https://up.htmlacademy.ru/profile/stakeout).
 
 ---
 
